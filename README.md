@@ -73,6 +73,7 @@ The application should now be open and running in your web browser!
 └── requirements.txt        # Project dependencies
 ```
 
+**Bonus:** Check out system_architecture.md for a cool visualization of how this project works and let me know what you think!
 
 ## Future Improvements
 This project serves as a strong foundation. Future enhancements could include:
@@ -82,6 +83,9 @@ This project serves as a strong foundation. Future enhancements could include:
 - [ ] **Model Fine-Tuning:** Train on a domain-specific dataset to boost precision.
 - [ ] **RAG Upgrade:** Move to Retrieval-Augmented Generation using Hugging Face models.
 - [ ] **Dockerization:** Add a `Dockerfile` for deployment consistency.
+
+## License
+This project is licensed under the MIT License.
 
 
 
