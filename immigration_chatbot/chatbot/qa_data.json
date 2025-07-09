@@ -1,0 +1,584 @@
+{
+    "h1b visa": {
+        "answers": [
+            "The H-1B is a temporary work visa for specialized occupations requiring theoretical or technical expertise.",
+            "H-1B allows foreign workers in fields like tech, finance, healthcare, and engineering to work in the U.S.",
+            "It's valid for 3 years, renewable once to 6 years total, and typically requires a bachelor's degree or equivalent.",
+            "The H-1B has an annual cap of 65,000 visas plus 20,000 for advanced degree holders from U.S. universities."
+        ],
+        "follow_ups": [
+            "Would you like to know about H-1B application deadlines?",
+            "Are you interested in H-1B to green card transition options?",
+            "Do you have questions about H-1B salary requirements?"
+        ],
+        "questions": [
+            "What is an H-1B visa?",
+            "Tell me about H1B.",
+            "What is the H-1B program?",
+            "Who is eligible for H-1B?"
+        ]
+    },
+    "opt": {
+        "answers": [
+            "OPT (Optional Practical Training) allows F-1 students to work in their field for up to 12 months after graduation.",
+            "Optional Practical Training provides eligible international students with temporary employment authorization.",
+            "You can extend OPT by 24 months if you're in a STEM field, for a total of 36 months.",
+            "Pre-completion OPT allows students to work part-time during studies and full-time during breaks."
+        ],
+        "follow_ups": [
+            "Would you like to know about OPT application deadlines?",
+            "Are you interested in STEM OPT extension requirements?",
+            "Do you have questions about working during OPT?"
+        ],
+        "questions": [
+            "What is OPT?",
+            "Tell me about Optional Practical Training.",
+            "What is the purpose of OPT?",
+            "Who can apply for OPT?"
+        ]
+    },
+    "green card": {
+        "answers": [
+            "A green card provides permanent resident status, allowing you to live and work permanently in the U.S.",
+            "There are several ways to get a green card: through family, employment, investment, or special programs.",
+            "Employment-based green cards have different categories (EB-1, EB-2, EB-3) based on skills and qualifications.",
+            "Green card holders can apply for U.S. citizenship after 5 years (or 3 years if married to a U.S. citizen)."
+        ],
+        "follow_ups": [
+            "Would you like to know about green card processing times?",
+            "Are you interested in employment-based green card categories?",
+            "Do you have questions about green card renewal?"
+        ],
+        "questions": [
+            "What is a green card?",
+            "How do I get a green card?",
+            "What are the benefits of a green card?",
+            "Tell me about permanent residency."
+        ]
+    },
+    "f1 visa": {
+        "answers": [
+            "The F-1 visa is for international students enrolled in academic programs at U.S. universities.",
+            "F-1 students can work on-campus and may be eligible for off-campus work through CPT or OPT.",
+            "You must maintain full-time enrollment and make satisfactory academic progress to keep F-1 status.",
+            "F-1 visa holders can transfer between schools but must update their SEVIS record."
+        ],
+        "follow_ups": [
+            "Would you like to know about F-1 work authorization options?",
+            "Are you interested in F-1 to H-1B transition?",
+            "Do you have questions about maintaining F-1 status?"
+        ],
+        "questions": [
+            "What is an F-1 visa?",
+            "Tell me about the F1 student visa.",
+            "Who needs an F-1 visa?"
+        ]
+    },
+    "cpt": {
+        "answers": [
+            "CPT (Curricular Practical Training) allows F-1 students to work off-campus in jobs related to their studies.",
+            "CPT must be an integral part of your curriculum, like an internship or co-op program.",
+            "You can work part-time (20 hours or less) or full-time CPT, but full-time CPT affects OPT eligibility.",
+            "CPT requires authorization from your school's international student office before starting work."
+        ],
+        "follow_ups": [
+            "Would you like to know about CPT vs OPT differences?",
+            "Are you interested in CPT application requirements?",
+            "Do you have questions about CPT work restrictions?"
+        ],
+        "questions": [
+            "What is CPT?",
+            "Tell me about Curricular Practical Training.",
+            "How does CPT work?",
+            "Can I do an internship with CPT?"
+        ]
+    },
+    "immigration": {
+        "answers": [
+            "Immigration is the international movement of people to a destination country of which they are not natives or where they do not possess citizenship in order to settle as permanent residents or naturalized citizens.",
+            "In the U.S. context, immigration refers to the process by which foreign nationals are permitted to live and work permanently in the United States, usually through a green card or naturalization."
+        ],
+        "follow_ups": [
+            "What are the main types of immigration to the U.S.?",
+            "What is the difference between a visa and immigration?",
+            "Who oversees immigration in the U.S.?"
+        ],
+        "questions": [
+            "What is immigration?",
+            "Define immigration.",
+            "Tell me about the immigration process."
+        ]
+    },
+    "h1b_application_process": {
+        "answers": [
+            "The H-1B application process involves several steps: employer files a Labor Condition Application (LCA), then submits Form I-129 petition during the cap season (April 1-5), followed by lottery selection if cap is reached.",
+            "H-1B applications require employer sponsorship, starting with LCA filing, then I-129 petition submission. The process includes lottery selection due to high demand exceeding the 85,000 annual cap.",
+            "To apply for H-1B: your employer must file LCA with Department of Labor, submit I-129 petition to USCIS during cap season, and if selected in lottery, you can apply for visa at consulate or change status if in the US."
+        ],
+        "follow_ups": [
+            "What are the H-1B application deadlines?",
+            "How does the H-1B lottery system work?",
+            "What documents are needed for H-1B application?"
+        ],
+        "questions": [
+            "How to apply for H-1B?",
+            "What is the H-1B application process?",
+            "Steps for H-1B visa application."
+        ]
+    },
+    "h1b_lottery": {
+        "answers": [
+            "The H-1B lottery is conducted when applications exceed the 85,000 cap (65,000 regular + 20,000 advanced degree). USCIS randomly selects petitions for processing, with advanced degree holders getting two chances.",
+            "Due to high demand, USCIS conducts a computer-generated lottery to select which H-1B petitions will be processed. The lottery gives priority to advanced degree holders from US universities."
+        ],
+        "follow_ups": [
+            "What are the H-1B lottery odds?",
+            "When does the H-1B lottery take place?",
+            "Can I improve my H-1B lottery chances?"
+        ],
+        "questions": [
+            "How does the H-1B lottery work?",
+            "Tell me about the H-1B lottery.",
+            "What is the H-1B cap lottery?"
+        ]
+    },
+    "opt_application_deadlines": {
+        "answers": [
+            "You must apply for OPT within 90 days before your program completion date and no later than 60 days after. Applications typically take 90-120 days to process.",
+            "OPT applications have strict deadlines: submit no earlier than 90 days before graduation and no later than 60 days after. Plan ahead as processing takes 3-4 months."
+        ],
+        "follow_ups": [
+            "What happens if I miss the OPT deadline?",
+            "Can I expedite my OPT application?",
+            "When should I start preparing my OPT application?"
+        ],
+        "questions": [
+            "What are the OPT application deadlines?",
+            "When do I apply for OPT?",
+            "OPT filing dates."
+        ]
+    },
+    "stem_opt_extension": {
+        "answers": [
+            "STEM OPT extension allows students with degrees in Science, Technology, Engineering, and Mathematics to extend their OPT by 24 months, for a total of 36 months of work authorization.",
+            "If you have a STEM degree from an accredited US institution, you can apply for a 24-month OPT extension, giving you up to 3 years total of post-graduation work authorization.",
+            "STEM OPT extension requires employer e-verify participation, formal training plan, and must be filed before your initial OPT expires."
+        ],
+        "follow_ups": [
+            "Which degrees qualify for STEM OPT extension?",
+            "What are the STEM OPT extension requirements?",
+            "How do I find STEM OPT extension deadlines?"
+        ],
+        "questions": [
+            "What is STEM OPT extension?",
+            "How to extend OPT for STEM majors?",
+            "STEM OPT rules."
+        ]
+    },
+    "f1_to_h1b_transition": {
+        "answers": [
+            "F-1 to H-1B transition requires careful timing. Students typically use OPT as a bridge while their employer files H-1B petition. If selected in lottery, you can change status from F-1 to H-1B.",
+            "The most common path from F-1 to H-1B is through OPT. During OPT, your employer can sponsor you for H-1B. If approved, you transition from student to temporary worker status."
+        ],
+        "follow_ups": [
+            "What if my H-1B is denied while on OPT?",
+            "Can I apply for H-1B without OPT?",
+            "How long does F-1 to H-1B transition take?"
+        ],
+        "questions": [
+            "How to go from F-1 to H-1B?",
+            "F1 to H1B process.",
+            "Converting F1 to H1B."
+        ]
+    },
+    "green_card_categories": {
+        "answers": [
+            "Employment-based green cards have 5 categories: EB-1 (priority workers), EB-2 (advanced degree/exceptional ability), EB-3 (skilled workers), EB-4 (special immigrants), and EB-5 (investors).",
+            "The main employment green card categories are EB-1 for extraordinary ability, EB-2 for advanced degrees, and EB-3 for skilled workers. Each has different requirements and processing times."
+        ],
+        "follow_ups": [
+            "Which green card category am I eligible for?",
+            "What are the green card processing times by category?",
+            "Do I need labor certification for all green card categories?"
+        ],
+        "questions": [
+            "What are the green card categories?",
+            "Types of employment-based green cards.",
+            "EB-1, EB-2, EB-3 green card definitions."
+        ]
+    },
+    "green_card_processing_times": {
+        "answers": [
+            "Green card processing times vary by category and country. EB-1 typically takes 12-18 months, EB-2 and EB-3 can take several years due to per-country limits, especially for India and China.",
+            "Processing times depend on your category and country of birth. Priority dates and visa bulletins determine when you can apply for adjustment of status or immigrant visa."
+        ],
+        "follow_ups": [
+            "How do I check my green card priority date?",
+            "What is the visa bulletin?",
+            "Can I expedite my green card application?"
+        ],
+        "questions": [
+            "How long does green card processing take?",
+            "Green card wait times.",
+            "Green card timeline."
+        ]
+    },
+    "h1b_salary_requirements": {
+        "answers": [
+            "H-1B salary requirements are based on the prevailing wage for your position and location. Employers must pay at least the prevailing wage or actual wage, whichever is higher, as determined by the Department of Labor.",
+            "The H-1B prevailing wage is the minimum salary your employer must pay, calculated based on your job duties, experience level, and geographic location. This ensures fair compensation and protects both foreign and domestic workers.",
+            "H-1B workers must receive the higher of either the prevailing wage (determined by DOL wage surveys) or the actual wage paid to similar employees. The wage level depends on your experience: Level I (entry), Level II (qualified), Level III (experienced), or Level IV (fully competent)."
+        ],
+        "follow_ups": [
+            "How do I find the prevailing wage for my H-1B position?",
+            "What happens if my employer pays below the prevailing wage?",
+            "Can my H-1B salary be reduced after approval?"
+        ],
+        "questions": [
+            "What are the H1B salary requirements?",
+            "H1B minimum wage.",
+            "H1B prevailing wage.",
+            "What is the earning limit with h1b?"
+        ]
+    },
+    "h1b_application_deadlines": {
+        "answers": [
+            "H-1B applications for cap-subject positions must be filed between April 1-5. USCIS accepts petitions during this 5-day window, and if the cap is reached, a lottery determines which applications are processed.",
+            "The H-1B cap season runs from April 1-5 each year for employment starting October 1. Cap-exempt employers (universities, non-profits, research institutions) can file year-round without deadline restrictions.",
+            "Key H-1B deadlines: April 1-5 for cap-subject petitions, October 1 earliest start date for new H-1B workers, and up to 6 months before the requested start date for cap-exempt positions."
+        ],
+        "follow_ups": [
+            "What is the difference between cap-subject and cap-exempt H-1B?",
+            "Can I file H-1B applications outside the April window?",
+            "What happens if I miss the H-1B filing deadline?"
+        ],
+        "questions": [
+            "What are the H1B application deadlines?",
+            "When can I apply for H1B?",
+            "H1B cap filing dates."
+        ]
+    },
+    "h1b_renewal_process": {
+        "answers": [
+            "H-1B renewal (extension) can be filed up to 6 months before expiration. Extensions beyond the initial 6-year limit require approved I-140 petition or pending green card application in certain circumstances.",
+            "To renew your H-1B, your employer files Form I-129 with updated LCA. You can work beyond the 6-year limit if you have an approved I-140 or filed I-140/I-485 more than 365 days ago.",
+            "H-1B extensions require employer sponsorship and new LCA filing. The process is similar to initial applications but typically faster. Extensions beyond 6 years need qualifying green card applications in progress."
+        ],
+        "follow_ups": [
+            "How long can I extend my H-1B beyond 6 years?",
+            "Can I change employers during H-1B renewal?",
+            "What documents are needed for H-1B extension?"
+        ],
+        "questions": [
+            "How to renew H1B visa?",
+            "H1B extension process.",
+            "H1B renewal requirements."
+        ]
+    },
+    "h1b_spouse_visa": {
+        "answers": [
+            "H-1B spouses and unmarried children under 21 can apply for H-4 dependent visas. H-4 holders can study but cannot work unless they qualify for H-4 EAD (Employment Authorization Document) under specific conditions.",
+            "H-4 visa allows H-1B dependents to live in the US but not work, except when eligible for H-4 EAD. This requires the H-1B holder to have approved I-140 or be in H-1B extension beyond 6 years.",
+            "H-4 dependent status is tied to the H-1B holder's status. Spouses can apply for H-4 EAD if the principal H-1B holder has an approved I-140 petition or is in 6+ year extension based on pending green card."
+        ],
+        "follow_ups": [
+            "Who is eligible for H-4 EAD work authorization?",
+            "Can H-4 dependents attend school in the US?",
+            "What happens to H-4 status if H-1B is denied?"
+        ],
+        "questions": [
+            "What is H4 visa?",
+            "Can H1B spouse work?",
+            "H1B dependent visa."
+        ]
+    },
+
+    "opt_unemployment_days": {
+        "answers": [
+            "OPT participants can have maximum 90 days of unemployment during their 12-month authorization period. STEM OPT extension allows additional 60 days, for total 150 days across both periods.",
+            "You must track unemployment days carefully during OPT. Regular OPT allows 90 days total, while STEM extension adds 60 more days. Exceeding limits results in automatic termination of status.",
+            "Unemployment days begin accruing the day after your OPT starts or when employment ends. Weekends and holidays count. You must report employment changes to your DSO within 10 days."
+        ],
+        "follow_ups": [
+            "How do I track my OPT unemployment days?",
+            "What counts as employment for OPT purposes?",
+            "What happens if I exceed the unemployment limit?"
+        ],
+        "questions": [
+            "OPT unemployment rules.",
+            "How many unemployment days on OPT?",
+            "OPT job search period."
+        ]
+    },
+
+    "opt_travel_restrictions": {
+        "answers": [
+            "OPT students can travel internationally but need valid F-1 visa, I-20 with travel signature, EAD card, and employment verification letter. Re-entry isn't guaranteed and requires careful documentation.",
+            "Travel during OPT requires proper documentation: unexpired F-1 visa, signed I-20, valid EAD card, and employment evidence. Unemployed students face higher risk of entry denial.",
+            "International travel on OPT is possible but risky. Ensure all documents are current, carry employment verification, and understand that CBP has discretion to deny re-entry to F-1 students."
+        ],
+        "follow_ups": [
+            "Can I travel during OPT unemployment periods?",
+            "What documents do I need for OPT travel?",
+            "How long can I stay outside the US on OPT?"
+        ],
+        "questions": [
+            "Can I travel on OPT?",
+            "OPT travel rules.",
+            "International travel during OPT."
+        ]
+    },
+
+    "cpt_vs_opt_differences": {
+        "answers": [
+            "CPT (Curricular Practical Training) is part-time/full-time work authorization during studies, while OPT is post-graduation work authorization. CPT requires integral curriculum connection; OPT is optional but directly related to studies.",
+            "Key differences: CPT occurs during studies and must be curricular requirement, while OPT is after graduation. CPT has no set time limit but affects OPT eligibility if used full-time for 12+ months.",
+            "CPT requires course enrollment and curriculum integration, while OPT is post-completion work authorization. Full-time CPT for 12+ months eliminates OPT eligibility, but part-time CPT doesn't affect OPT."
+        ],
+        "follow_ups": [
+            "Does CPT usage affect my OPT eligibility?",
+            "Can I use both CPT and OPT?",
+            "Which is better for gaining work experience - CPT or OPT?"
+        ],
+        "questions": [
+            "CPT vs OPT.",
+            "What's the difference between CPT and OPT?",
+            "CPT vs OPT comparison."
+        ]
+    },
+
+    "cpt_application_requirements": {
+        "answers": [
+            "CPT requires: one academic year completion, job offer directly related to major, course enrollment that integrates work experience, and DSO approval before starting work.",
+            "To apply for CPT: complete one full academic year, secure employment offer, enroll in internship/practicum course, submit application to DSO with employer letter detailing work duties and connection to curriculum.",
+            "CPT application process: obtain job offer, verify curriculum connection, register for qualifying course, submit forms to DSO including employer letter, and receive I-20 endorsement before beginning work."
+        ],
+        "follow_ups": [
+            "How long does CPT application processing take?",
+            "Can I apply for CPT in my first year of studies?",
+            "What if my CPT application is denied?"
+        ],
+        "questions": [
+            "How to apply for CPT?",
+            "CPT application requirements.",
+            "Documents needed for CPT."
+        ]
+    },
+
+    "f1_maintaining_status": {
+        "answers": [
+            "Maintaining F-1 status requires: full-time enrollment (except authorized reductions), academic progress toward degree completion, valid I-20, current SEVIS record, and compliance with employment restrictions.",
+            "F-1 students must maintain full course load, make normal progress, keep valid immigration documents, report changes to DSO, and avoid unauthorized employment to maintain legal status.",
+            "Key F-1 requirements: enroll full-time each semester, maintain valid I-20, update address within 10 days, report program changes, and only work as authorized (on-campus, CPT, OPT)."
+        ],
+        "follow_ups": [
+            "What happens if I fail to maintain F-1 status?",
+            "Can I take reduced course load as F-1 student?",
+            "How do I restore F-1 status after violation?"
+        ],
+        "questions": [
+            "How to maintain F-1 status?",
+            "F1 status requirements.",
+            "What are the rules for F1 visa holders?"
+        ]
+    },
+
+    "f1_transfer_schools": {
+        "answers": [
+            "F-1 transfer requires: admission to new SEVP-approved school, transfer eligibility verification, SEVIS record release request, and completion of transfer within 5 months or before program end.",
+            "School transfer process: get accepted to new school, request SEVIS transfer from current DSO, receive transfer-eligible I-20, complete transfer before deadline, and maintain status throughout process.",
+            "F-1 students can transfer between SEVP-approved schools by requesting SEVIS record release. New school issues transfer I-20, and student must complete transfer within specified timeframe."
+        ],
+        "follow_ups": [
+            "How long do I have to complete an F-1 transfer?",
+            "Can I transfer schools while on OPT?",
+            "What if my transfer request is denied?"
+        ],
+        "questions": [
+            "How to transfer F-1 visa to new school?",
+            "F1 school transfer process.",
+            "Changing schools on F1 visa."
+        ]
+    },
+
+    "green_card_through_marriage": {
+        "answers": [
+            "Marriage-based green cards are available for spouses of US citizens and permanent residents. The process involves filing I-130 petition, followed by I-485 (if in US) or consular processing, with interview and evidence requirements.",
+            "Spouses of US citizens can apply immediately without waiting periods, while permanent resident spouses face longer waits. The process requires proving genuine marriage through documentation and and interviews.",
+            "Marriage green card process: file I-130 family petition, wait for approval (immediate for US citizens), apply for adjustment of status or immigrant visa, attend biometrics and interview, and receive conditional or permanent green card."
+        ],
+        "follow_ups": [
+            "What documents prove a genuine marriage for green card?",
+            "How long does marriage-based green card take?",
+            "What is conditional green card and when do I get it?"
+        ],
+        "questions": [
+            "How to get green card through marriage?",
+            "Marriage based green card requirements.",
+            "Green card for spouse."
+        ]
+    },
+
+    "green_card_renewal": {
+        "answers": [
+            "Green card renewal requires filing Form I-90 within 6 months of the 10-year expiration date. The process involves biometrics, background check, and issuance of new 10-year card.",
+            "Permanent residents must renew their green card every 10 years using Form I-90. File 6 months before expiration, pay fees, attend biometrics appointment, and receive new card.",
+            "Green card renewal is administrative process for maintaining valid documentation. Your permanent resident status doesn't expire, but the physical card needs renewal every decade."
+        ],
+        "follow_ups": [
+            "What happens if my green card expires?",
+            "Can I travel with expired green card?",
+            "How much does green card renewal cost?"
+        ],
+        "questions": [
+            "How to renew green card?",
+            "Green card renewal process.",
+            "Expired green card."
+        ]
+    },
+
+    "citizenship_requirements": {
+        "answers": [
+            "US citizenship requirements include: 5 years permanent residency (3 if married to citizen), physical presence, good moral character, English and civics knowledge, and oath of allegiance.",
+            "To become US citizen: maintain permanent residency for required period, pass English and civics tests, demonstrate good moral character, take oath of allegiance, and file N-400 application.",
+            "Citizenship eligibility: 5 years as permanent resident (or 3 years if married to US citizen), physical presence requirements, tax compliance, English proficiency, civics knowledge, and clean criminal record."
+        ],
+        "follow_ups": [
+            "How long is the citizenship application process?",
+            "What happens if I fail the citizenship test?",
+            "Can I lose my citizenship after naturalization?"
+        ],
+        "questions": [
+            "What are US citizenship requirements?",
+            "How to become a US citizen?",
+            "Naturalization process."
+        ]
+    },
+
+    "travel_with_pending_applications": {
+        "answers": [
+            "Travel with pending applications requires advance parole (Form I-131) for adjustment of status applicants. H-1B, L-1, and other dual-intent visa holders may travel on their status instead.",
+            "Pending application travel rules vary by case type. Some require advance parole, others allow travel on existing status. Consult attorney before traveling to avoid abandoning applications.",
+            "Travel restrictions during pending applications: asylum seekers generally cannot travel, adjustment applicants need advance parole, and certain visa holders can use existing status for travel."
+        ],
+        "follow_ups": [
+            "Do I need advance parole for international travel?",
+            "What happens if I travel without advance parole?",
+            "How long does advance parole processing take?"
+        ],
+        "questions": [
+            "Can I travel with pending green card application?",
+            "Travel during adjustment of status.",
+            "Advance parole for travel."
+        ]
+    },
+
+    "work_authorization_documents": {
+        "answers": [
+            "Work authorization documents include: EAD card (Employment Authorization Document), I-94 with work notation, visa stamps indicating work eligibility, and green card for permanent residents.",
+            "Common work authorization: EAD for various categories, H-1B approval notice with I-94, L-1 visa for intracompany transfers, O-1 for extraordinary ability, and green card for permanent employment.",
+            "Valid work authorization requires unexpired documentation: EAD card, I-94 record showing work eligibility, approved petition with work authorization, or permanent resident card."
+        ],
+        "follow_ups": [
+            "How do I replace a lost EAD card?",
+            "Can I work while EAD renewal is pending?",
+            "What documents can I show for I-9 verification?"
+        ],
+        "questions": [
+            "What are work authorization documents?",
+            "Types of work authorization in US.",
+            "EAD card explained."
+        ]
+    },
+
+    "immigration_medical_exam": {
+        "answers": [
+            "Immigration medical exam is required for green card applicants and performed by USCIS-approved civil surgeons. The exam includes vaccination review, physical examination, and screening for communicable diseases.",
+            "Medical examination requirements: complete Form I-693 with civil surgeon, receive required vaccinations, undergo physical and mental health screening, and submit sealed report to USCIS.",
+            "The immigration medical exam screens for inadmissible conditions, ensures vaccination compliance, and must be completed by designated civil surgeons within one year of adjustment filing."
+        ],
+        "follow_ups": [
+            "How do I find a USCIS-approved civil surgeon?",
+            "What vaccinations are required for immigration?",
+            "How much does the immigration medical exam cost?"
+        ],
+        "questions": [
+            "What is immigration medical exam?",
+            "Requirements for immigration medical exam.",
+            "Who performs immigration medical exam?"
+        ]
+    },
+
+    "adjustment_of_status": {
+        "answers": [
+            "Adjustment of status (Form I-485) allows eligible individuals in the US to apply for permanent residence without leaving the country. It's available when immigrant visa is immediately available based on priority date.",
+            "I-485 adjustment of status is the process to become permanent resident while remaining in the US. Requirements include lawful status, available visa number, and eligible category.",
+            "Adjustment of status benefits: remain in US during processing, work and travel authorization available, and no consular processing required. Must maintain status and have current priority date."
+        ],
+        "follow_ups": [
+            "Who is eligible for adjustment of status?",
+            "Can I adjust status if I overstayed my visa?",
+            "How long does adjustment of status take?"
+        ],
+        "questions": [
+            "What is adjustment of status?",
+            "How to adjust status to green card?",
+            "I-485 process."
+        ]
+    },
+
+    "consular_processing": {
+        "answers": [
+            "Consular processing is the immigrant visa application process at US consulates abroad. After I-130 or I-140 approval, applicants complete DS-260, attend interview, and receive immigrant visa for US entry.",
+            "Consular processing steps: petition approval, National Visa Center processing, Form DS-260 submission, document collection, medical exam, consular interview, and visa issuance for US entry.",
+            "Applicants outside the US or those ineligible for adjustment must use consular processing. The process occurs at US consulates in the applicant's home country or residence."
+        ],
+        "follow_ups": [
+            "How long does consular processing take?",
+            "Can I choose consular processing over adjustment of status?",
+            "What happens if consular interview is denied?"
+        ],
+        "questions": [
+            "What is consular processing?",
+            "Consular interview process.",
+            "Applying for green card outside US."
+        ]
+    },
+
+    "priority_dates": {
+        "answers": [
+            "Priority date is the date your immigrant petition was filed, determining your place in line for green card processing. It must be current (reached) according to the visa bulletin before final processing.",
+            "Priority dates control green card timing based on per-country limits and category quotas. Check monthly visa bulletin to see if your priority date is current for final application submission.",
+            "Your priority date establishes your queue position for immigrant visa processing. Family petitions use filing date, while employment petitions use the date USCIS received your I-140."
+        ],
+        "follow_ups": [
+            "How do I find my priority date?",
+            "Why do priority dates retrogress?",
+            "Can I keep my priority date if I change employers?"
+        ],
+        "questions": [
+            "What are priority dates?",
+            "How do priority dates work?",
+            "Immigration priority date meaning."
+        ]
+    },
+
+    "visa_bulletin_understanding": {
+        "answers": [
+            "The visa bulletin shows monthly cut-off dates for immigrant visa processing by country and category. Two charts show 'Final Action' dates (when you can get green card) and 'Filing' dates (when you can submit I-485).",
+            "Published monthly by State Department, the visa bulletin indicates visa availability based on priority dates. 'Current' means all dates are eligible; specific dates show the cut-off for processing.",
+            "Visa bulletin interpretation: Final Action chart shows when you can complete the process, Filing chart shows when you can submit adjustment application. Use the chart USCIS designates for your situation."
+        ],
+        "follow_ups": [
+            "Which visa bulletin chart should I use?",
+            "What does 'unavailable' mean in the visa bulletin?",
+            "How often does the visa bulletin update?"
+        ],
+        "questions": [
+            "What is the visa bulletin?",
+            "How to read visa bulletin?",
+            "Understanding visa bulletin dates."
+        ]
+    }
+}
+}
