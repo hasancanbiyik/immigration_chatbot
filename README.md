@@ -36,18 +36,19 @@ Follow these instructions to set up and run the project locally:
 
 `cd hasancanbiyik`
 
-
 **2. Create and activate a virtual environment:**
 
 ##### For macOS/Linux
-`python3 -m venv venv`
-
-`source venv/bin/activate`
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
 
 ##### For Windows
-`python -m venv venv`
-
-`.\venv\Scripts\activate`
+```bash
+python -m venv venv
+.\venv\Scripts\activate
+```
 
 **3. Install the required dependencies:**
 
@@ -62,7 +63,7 @@ A `requirements.txt` file is included for easy installation.
 The application should now be open and running in your web browser!
 
 ```text
-📁 Project Structure
+📁 Project Structure (immigration_chatbot)
 ├── chatbot/
 │   ├── __init__.py         # Core chatbot class and semantic search logic
 │   ├── logic.py            # Core chatbot class and semantic search logic
@@ -73,10 +74,14 @@ The application should now be open and running in your web browser!
 ```
 
 
+## Future Improvements
+This project serves as a strong foundation. Future enhancements could include:
 
-
-
-
+- [ ] **Evaluation Framework:** Add `evaluation.py` to test chatbot accuracy on held-out sets.
+- [ ] **Vector DB:** Swap in FAISS or ChromaDB for scalable vector search.
+- [ ] **Model Fine-Tuning:** Train on a domain-specific dataset to boost precision.
+- [ ] **RAG Upgrade:** Move to Retrieval-Augmented Generation using Hugging Face models.
+- [ ] **Dockerization:** Add a `Dockerfile` for deployment consistency.
 
 
 
