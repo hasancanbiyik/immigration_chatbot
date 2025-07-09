@@ -1,8 +1,8 @@
-# US Immigration Q&A Chatbot
+# U.S. Immigration Q&A Chatbot 🇺🇸🤖🦅
 ## Project Overview
 An intelligent, end-to-end chatbot designed to answer common questions about the US immigration process, including H-1B, OPT, Green Cards, and F-1/CPT visas. This project leverages a powerful sentence-embedding model for accurate semantic search and is deployed with a user-friendly web interface built in Streamlit.
 
-## Live Demo
+### Live Demo
 A visual demonstration will be added here [Noted on July 9, 2025]
 
 ## Key Features
@@ -20,6 +20,65 @@ A visual demonstration will be added here [Noted on July 9, 2025]
 **3. SentenceTransformer Model (`multi-qa-mpnet-base-dot-v1`):** A pre-trained NLP model that converts both the user queries and the knowledge base questions into high-dimensional vector embeddings.
 
 **4. Knowledge Base (`chatbot/qa_data.json`):** A JSON file containing topics, representative questions for semantic matching, answers, and follow-up suggestions.
+
+
+## Getting Started
+Follow these instructions to set up and run the project locally:
+
+#### Prerequisites
+- Python 3.9 or higher
+- `pip` and `venv`
+
+#### Installation & Setup
+
+**1. Clone the repository:**
+`git clone [https://github.com/hasancanbiyik/immigration_chatbot]`
+
+`cd hasancanbiyik`
+
+
+**2. Create and activate a virtual environment:**
+
+##### For macOS/Linux
+`python3 -m venv venv`
+
+`source venv/bin/activate`
+
+##### For Windows
+`python -m venv venv`
+
+`.\venv\Scripts\activate`
+
+**3. Install the required dependencies:**
+
+A `requirements.txt` file is included for easy installation.
+
+`pip install -r requirements.txt`
+
+**4. Lastly, run the Streamlit application:**
+
+`streamlit run app.py`
+
+The application should now be open and running in your web browser!
+
+```text
+📁 Project Structure
+├── chatbot/
+│   ├── __init__.py         # Core chatbot class and semantic search logic
+│   ├── logic.py            # Core chatbot class and semantic search logic
+│   └── qa_data.json        # Knowledge base with questions and answers
+├── app.py                  # Main Streamlit application file
+├── README.md               # You are here!
+└── requirements.txt        # Project dependencies
+```
+
+
+
+
+
+
+
+
 
 
 
