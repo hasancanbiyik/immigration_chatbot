@@ -78,7 +78,7 @@ The application should now be open and running in your web browser!
 ## Future Improvements
 This project serves as a strong foundation. Future enhancements could include:
 
-- [ ] **Evaluation Framework:** Add `evaluation.py` to test chatbot accuracy on held-out sets.
+- [ ] **Evaluation Framework:** Implement evaluation methods to test chatbot accuracy on held-out sets.
 - [ ] **Vector DB:** Swap in FAISS or ChromaDB for scalable vector search.
 - [ ] **Model Fine-Tuning:** Train on a domain-specific dataset to boost precision.
 - [ ] **RAG Upgrade:** Move to Retrieval-Augmented Generation using Hugging Face models.
